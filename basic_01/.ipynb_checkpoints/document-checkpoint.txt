@@ -1,0 +1,11 @@
+test_YOLO.ipynb 
+
+        " this file is a test a yolo model to how to work with coco dataset and all unserstanding with a singale image"
+
+dataset/training_data/p1_of_ocr
+
+        " this are work to yolov8-cls to the clssificasion how to understanding :"
+
+            runs/classify/train-4/weights/best.pt   ---> model path 
+
+simple unsrestanding of this file 

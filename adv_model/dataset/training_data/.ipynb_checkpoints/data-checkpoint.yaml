@@ -1,0 +1,8 @@
+path: C:/Users/princ/OneDrive/Desktop/New folder (3)/dataset/training_data
+
+train: images/train
+val: images/val
+
+names:
+  0: invoice
+  1: receipt
