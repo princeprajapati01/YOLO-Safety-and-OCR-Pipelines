@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bicyclist', 'driver', 'helmet', 'no-helmet']
+
+roboflow:
+  workspace: codee-2b02z
+  project: helmet-detection-ntbfz-6kjq3
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/codee-2b02z/helmet-detection-ntbfz-6kjq3/dataset/1
